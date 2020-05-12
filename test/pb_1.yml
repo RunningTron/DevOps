@@ -1,0 +1,14 @@
+- hosts: local
+  remote_user: root
+  tasks:
+    - name: t1
+      shell: echo "hello"
+    - name: t2
+      shell: echo date
+- hosts: slave
+  remote_user: root
+  tasks:
+    - name: create
+      file: path=/opt/a.py state=touch
+    - name: write
+      copy: content="print hello" dest=/opt/a.py
