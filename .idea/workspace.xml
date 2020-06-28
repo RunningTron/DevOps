@@ -2,449 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7059f31b-c504-4c50-89dd-7cdbb5dd8d3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/web/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/.idea/web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/app01/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/app01/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/app01/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/app01/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/app01/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/app01/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/app01/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/app01/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/image/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/css/layui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/css/layui.mobile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/css/modules/code.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/css/modules/laydate/default/laydate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/css/modules/layer/default/icon-ext.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/css/modules/layer/default/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/css/modules/layer/default/layer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/css/modules/layer/default/loading-0.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/css/modules/layer/default/loading-1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/css/modules/layer/default/loading-2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/font/iconfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/font/iconfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/font/iconfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/font/iconfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/font/iconfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/0.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/10.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/11.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/12.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/13.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/14.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/15.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/16.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/17.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/18.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/19.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/20.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/21.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/22.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/23.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/24.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/25.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/26.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/27.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/28.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/29.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/30.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/31.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/32.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/33.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/34.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/35.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/36.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/37.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/38.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/39.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/4.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/40.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/41.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/42.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/43.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/44.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/45.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/46.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/47.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/48.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/49.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/5.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/50.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/51.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/52.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/53.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/54.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/55.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/56.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/57.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/58.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/59.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/6.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/60.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/61.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/62.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/63.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/64.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/65.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/66.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/67.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/68.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/69.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/7.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/70.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/71.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/8.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/images/face/9.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/lay/modules/carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/lay/modules/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/lay/modules/colorpicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/lay/modules/element.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/lay/modules/flow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/lay/modules/form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/lay/modules/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/lay/modules/laydate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/lay/modules/layedit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/lay/modules/layer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/lay/modules/laypage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/lay/modules/laytpl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/lay/modules/mobile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/lay/modules/rate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/lay/modules/slider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/lay/modules/table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/lay/modules/transfer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/lay/modules/tree.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/lay/modules/upload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/lay/modules/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/layui.all.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/layui/layui.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/app-profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/badge.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/booking-system.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/button.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/calendar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/card.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/chart.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/chat.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/compose-email.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/data-table.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/datamap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/favourite_menu.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/flot-chart.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/fonts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/form.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/forms.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/global.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/gmap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/invoice-edit.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/invoice.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/barRating/barRating.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/calendar/fullcalendar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/calendar2/pignose.calendar.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/calendar2/semantic.ui.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/data-table/buttons.bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/data-table/buttons.dataTables.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/data-table/dataTables.bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/jquery-ui.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/jsgrid/jsgrid-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/jsgrid/jsgrid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/lobi-panel/lobipanel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/mmc-chat.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/nestable/nestable.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/owl.theme.default.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/rangSlider/ion.rangeSlider.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/rangSlider/ion.rangeSlider.skinFlat.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/rangSlider/ion.rangeSlider.skinHTML5.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/rangSlider/ion.rangeSlider.skinModern.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/rangSlider/ion.rangeSlider.skinNice.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/rangSlider/ion.rangeSlider.skinSimple.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/rangSlider/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/scrollable/scrollable.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/sidebar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/simdahs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/sweetalert/sweetalert.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/themify-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/toastr/toastr.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/vector-map/jqvmap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/weather-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/menu-upload.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/modal.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/morris-chart.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/nestable.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/order-list.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/order-progress.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/panel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/products_1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/products_2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/products_3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/profile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/progress-bar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/recent-comments.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/recent-message.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/scrollable.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/tab.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/table.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/timeline.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/todo-list.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/ui-element-basic.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/variable.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/vector-map.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/weather.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/css/widget-stat.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/MontserratLight.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/MontserratLight.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/MontserratLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/MontserratLight.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/MontserratLight.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/fontawesome-webfont_files/viewsource.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/themify.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/themify.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/themify.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/themify.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/weathericons-regular-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/weathericons-regular-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/weathericons-regular-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/weathericons-regular-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/weathericons-regular-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/avatar/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/avatar/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/avatar/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/avatar/usa-flag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/bookingSystem/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/bookingSystem/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/bookingSystem/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/bookingSystem/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/bookingSystem/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/bookingSystem/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/bookingSystem/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/bookingSystem/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/chat-person-add.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/fjords.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/hand.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/lights.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/logo-big.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/logo-small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/maximize.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/minimize.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/nature.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/newyork.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/paris.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/paypal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/picture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/preview1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/product_1/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/product_1/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/product_1/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/product_1/burger.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/product_1/download.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/product_1/image-10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/product_1/image-8-226x223 - Copy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/product_1/image-8-226x223.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/product_1/image-9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/product_1/images.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/product_1/pizza2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/rangeSliderimg/sprite-skin-flat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/rangeSliderimg/sprite-skin-modern.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/rangeSliderimg/sprite-skin-nice.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/rangeSliderimg/sprite-skin-simple.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/sanfran.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/scrollable/view-1-1200x800.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/smile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/user-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/user-profile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/user.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/images/video-cam.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/barRating/barRating.init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/barRating/jquery.barrating.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/calendar-2/moment.latest.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/calendar-2/pignose.calendar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/calendar-2/pignose.init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/calendar-2/prism.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/calendar-2/semantic.ui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/calendar/fullcalendar-init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/calendar/fullcalendar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/chart-js/Chart.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/chart-js/chartjs-init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/chat-widget/chat-widget-init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/data-table/buttons.colVis.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/data-table/buttons.flash.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/data-table/buttons.html5.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/data-table/buttons.print.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/data-table/dataTables.buttons.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/data-table/datatables-init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/data-table/datatables.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/data-table/jquery-1.12.4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/data-table/jquery.dataTables.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/data-table/jszip.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/data-table/pdfmake.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/data-table/vfs_fonts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/datamap/d3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/datamap/datamap-init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/datamap/datamaps.world.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/datamap/topojson.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/flot-chart/curvedLines.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/flot-chart/excanvas.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/flot-chart/flot-chart-init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/flot-chart/flot-tooltip/jquery.flot.tooltip.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/flot-chart/jquery.flot.categories.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/flot-chart/jquery.flot.crosshair.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/flot-chart/jquery.flot.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/flot-chart/jquery.flot.pie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/flot-chart/jquery.flot.resize.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/flot-chart/jquery.flot.stack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/flot-chart/jquery.flot.threshold.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/flot-chart/jquery.flot.time.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/flowtype.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/gmap/gmap.init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/gmap/gmapApi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/gmap/gmaps.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/invoice-edit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jquery-ui/jquery-ui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jquery-ui/jquery.ui.touch-punch.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jquery.nanoscroller.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jsgrid/db.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jsgrid/fields/jsgrid.field.checkbox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jsgrid/fields/jsgrid.field.control.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jsgrid/fields/jsgrid.field.number.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jsgrid/fields/jsgrid.field.select.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jsgrid/fields/jsgrid.field.text.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jsgrid/fields/jsgrid.field.textarea.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jsgrid/jsgrid-init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jsgrid/jsgrid.core.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jsgrid/jsgrid.field.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jsgrid/jsgrid.load-indicator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jsgrid/jsgrid.load-strategies.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jsgrid/jsgrid.sort-strategies.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jsgrid/jsgrid.validation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/knob/jquery.knob.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/knob/knob.init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/lobi-panel/lobipanel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/mmc-chat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/mmc-common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/moment/moment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/morris-chart/morris-init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/morris-chart/morris.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/nestable/jquery.nestable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/nestable/nestable.init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/owl-carousel/owl.carousel-init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/owl-carousel/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/peitychart/jquery.peity.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/peitychart/peitychart.init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/rangeSlider/ion.rangeSlider.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/rangeSlider/moment-with-locales.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/rangeSlider/moment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/rangeSlider/rangeslider.init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/rating1/jRate.init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/rating1/jRate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/scrollable/holder.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/scrollable/jquery-asScrollable.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/scrollable/jquery-asScrollbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/scrollable/scrollable.init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/sidebar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/sparklinechart/jquery.sparkline.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/sparklinechart/sparkline.init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/sweetalert/sweetalert.init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/sweetalert/sweetalert.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/toastr/toastr.init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/toastr/toastr.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/country/jquery.vmap.algeria.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/country/jquery.vmap.argentina.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/country/jquery.vmap.brazil.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/country/jquery.vmap.europe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/country/jquery.vmap.france.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/country/jquery.vmap.germany.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/country/jquery.vmap.greece.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/country/jquery.vmap.iran.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/country/jquery.vmap.iraq.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/country/jquery.vmap.russia.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/country/jquery.vmap.tunisia.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/country/jquery.vmap.turkey.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/country/jquery.vmap.usa.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/country/jquery.vmap.world.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/jquery.vmap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/jquery.vmap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/jquery.vmap.sampledata.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/vector.init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/weather/jquery.simpleWeather.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/weather/weather-init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/assets/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/font-themify.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/form-basic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/page-login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/page-register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/page-reset-password.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/restaurant-upload-menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/table-basic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/table-export.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/uc-calendar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/uc-carousel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/uc-chat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/uc-datamap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/uc-nestable.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/uc-portlets.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/uc-scrollable.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/uc-sweetalert.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/uc-toastr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/uc-todo-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/uc-weather.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/ui-accordion.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/ui-alerts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/ui-badges.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/ui-blank.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/ui-button.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/ui-dropdown.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/ui-images.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/ui-list-group.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/ui-navbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/ui-panels.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/ui-progressbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/ui-recent-comments.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/ui-tab.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/ui-timeline.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/templates/moban3822/ui-wells.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/web/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/web/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/web/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/web/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DevOps.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DevOps.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -469,22 +27,23 @@
         <counts>
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="3" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.2" value="4" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="daily" value="1" />
           <entry key="gif" value="1" />
+          <entry key="gitignore" value="1" />
           <entry key="html" value="9" />
           <entry key="jpg" value="2" />
           <entry key="js" value="1" />
           <entry key="md" value="1" />
           <entry key="png" value="3" />
-          <entry key="py" value="33" />
+          <entry key="py" value="34" />
           <entry key="txt" value="2" />
           <entry key="yml" value="1" />
         </counts>
@@ -495,13 +54,14 @@
           <entry key="Image" value="6" />
           <entry key="JavaScript" value="1" />
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="33" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="34" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="gitignore" value="2" />
           <entry key="html" value="833" />
           <entry key="py" value="1550" />
           <entry key="yml" value="330" />
@@ -510,6 +70,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="833" />
+          <entry key="PLAIN_TEXT" value="2" />
           <entry key="Python" value="1550" />
           <entry key="YAML" value="330" />
         </counts>
@@ -542,7 +103,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/app01/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="477">
+            <state relative-caret-position="462">
               <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
               <folding>
                 <element signature="e#637#669#0" expanded="true" />
@@ -554,8 +115,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/app01/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="792">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
                 <marker date="1592047347854" expanded="true" signature="445:489" ph="..." />
@@ -569,8 +130,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="523">
-              <caret line="124" column="8" lean-forward="true" selection-start-line="124" selection-start-column="8" selection-end-line="124" selection-end-column="8" />
+            <state relative-caret-position="2728">
+              <caret line="124" column="8" selection-start-line="124" selection-start-column="8" selection-end-line="124" selection-end-column="8" />
               <folding>
                 <element signature="n#script#2;n#body#0;n#html#0;n#!!top" />
               </folding>
@@ -578,56 +139,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="154" column="7" lean-forward="true" selection-start-line="154" selection-start-column="7" selection-end-line="154" selection-end-column="7" />
-              <folding>
-                <element signature="n#head#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#li#0;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#li#1;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#li#2;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#li#3;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#dl#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#dd#0;n#dl#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#dd#1;n#dl#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#dd#2;n#dl#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#ul#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#li#0;n#ul#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#a#0;n#li#0;n#ul#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#dl#0;n#li#0;n#ul#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#dd#0;n#dl#0;n#li#0;n#ul#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#dd#1;n#dl#0;n#li#0;n#ul#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#li#1;n#ul#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#dl#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#dd#0;n#dl#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#dd#1;n#dl#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#dd#2;n#dl#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#dd#3;n#dl#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#dl#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#dd#0;n#dl#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#dd#1;n#dl#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#dd#2;n#dl#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#li#3;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="e#4874#4935#0#HTML" />
-                <element signature="e#4992#6045#0#HTML" />
-                <element signature="e#5113#6006#0#HTML" />
-                <element signature="e#5301#5986#0#HTML" />
-                <element signature="e#5302#5985#0#HTML" />
-              </folding>
+            <state relative-caret-position="294">
+              <caret line="154" column="7" selection-start-line="154" selection-start-column="7" selection-end-line="154" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exec.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -667,6 +201,7 @@
         <option value="$PROJECT_DIR$/web/app01/urls.py" />
         <option value="$PROJECT_DIR$/web/app01/views.py" />
         <option value="$PROJECT_DIR$/web/templates/base.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -676,9 +211,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="910" />
-    <option name="y" value="96" />
+    <option name="y" value="95" />
     <option name="width" value="930" />
     <option name="height" value="780" />
   </component>
@@ -690,7 +225,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -698,27 +232,11 @@
               <item name="DevOps" type="b2602c69:ProjectViewProjectNode" />
               <item name="DevOps" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DevOps" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DevOps" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DevOps" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DevOps" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="app01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DevOps" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DevOps" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -872,10 +390,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18364611" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1494638" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -889,7 +407,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5020107" side_tool="true" weight="0.1380323" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49798927" weight="0.21627648" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49798927" visible="true" weight="0.43612334" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1004,13 +522,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exec.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Pycode/issue/web/apps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -1085,6 +596,22 @@
     <entry file="file://$PROJECT_DIR$/web/static/layui/images/face/0.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/gmap/gmaps.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/templates/moban3822/table-basic.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/templates/moban3822/page-login.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/templates/moban3822/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="945" column="22" lean-forward="true" selection-start-line="945" selection-start-column="22" selection-end-line="945" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/web/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2728">
@@ -1102,31 +629,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/gmap/gmaps.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/templates/moban3822/table-basic.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/templates/moban3822/page-login.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/templates/moban3822/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="945" column="22" lean-forward="true" selection-start-line="945" selection-start-column="22" selection-end-line="945" selection-end-column="22" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/app01/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
+        <state relative-caret-position="462">
           <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
           <folding>
             <element signature="e#637#669#0" expanded="true" />
@@ -1136,8 +641,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/app01/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="792">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
             <marker date="1592047347854" expanded="true" signature="445:489" ph="..." />
@@ -1149,8 +654,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="124" column="8" lean-forward="true" selection-start-line="124" selection-start-column="8" selection-end-line="124" selection-end-column="8" />
+        <state relative-caret-position="2728">
+          <caret line="124" column="8" selection-start-line="124" selection-start-column="8" selection-end-line="124" selection-end-column="8" />
           <folding>
             <element signature="n#script#2;n#body#0;n#html#0;n#!!top" />
           </folding>
@@ -1159,53 +664,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="154" column="7" lean-forward="true" selection-start-line="154" selection-start-column="7" selection-end-line="154" selection-end-column="7" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#li#0;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#li#1;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#li#2;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#li#3;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#dl#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#dd#0;n#dl#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#dd#1;n#dl#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#dd#2;n#dl#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#ul#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#li#0;n#ul#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#a#0;n#li#0;n#ul#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#dl#0;n#li#0;n#ul#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#dd#0;n#dl#0;n#li#0;n#ul#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#dd#1;n#dl#0;n#li#0;n#ul#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#li#1;n#ul#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#dl#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#dd#0;n#dl#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#dd#1;n#dl#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#dd#2;n#dl#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#dd#3;n#dl#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#dl#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#dd#0;n#dl#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#dd#1;n#dl#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#dd#2;n#dl#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#li#3;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#4874#4935#0#HTML" />
-            <element signature="e#4992#6045#0#HTML" />
-            <element signature="e#5113#6006#0#HTML" />
-            <element signature="e#5301#5986#0#HTML" />
-            <element signature="e#5302#5985#0#HTML" />
-          </folding>
+        <state relative-caret-position="294">
+          <caret line="154" column="7" selection-start-line="154" selection-start-column="7" selection-end-line="154" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
         </state>
       </provider>
     </entry>
