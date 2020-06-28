@@ -1,0 +1,138 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>web.app01</title>
+    <link rel="stylesheet" href="{% static 'layui/css/layui.css' %}">
+
+</head>
+<body>
+<h1>Index</h1>
+
+
+<div class="layui-carousel" id="test1">
+    <div carousel-item>
+        <div><img src="{% static 'image/1.jpg' %}" title="1.jpg.." height="500" width=100%>></div>
+        <div><img src="{% static 'image/2.jpg' %}" title="2.jpg" alt="2.jpg" height="500" width=100%></div>
+
+    </div>
+</div>
+
+
+<table class="layui-table">
+    <colgroup>
+        <col width="150">
+        <col width="200">
+        <col>
+    </colgroup>
+    <thead>
+    <tr>
+        <th>姓名</th>
+        <th>性别</th>
+        <th>tel</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>tron</td>
+        <td>男</td>
+        <td>155</td>
+    </tr>
+    <tr>
+        <td>tron</td>
+        <td>男</td>
+        <td>155</td>
+    </tr>
+    </tbody>
+</table>
+
+
+<form method="post" action="{% url 'app01:upload' %}" enctype="multipart/form-data" class="layui-form">
+    {% csrf_token %}
+    <div class="layui-form-item">
+        <label class="layui-form-label">用户名</label>
+        <div class="layui-input-block">
+            <input type="text" name="uname" required lay-verify="required" placeholder="请输入用户名" autocomplete="off"
+                   class="layui-input">
+        </div>
+    </div>
+
+    <div class="layui-form-item">
+        <label class="layui-form-label">密码</label>
+        <div class="layui-input-block">
+            <input type="password" name="passwd" required lay-verify="required" placeholder="请输入密码" autocomplete="off"
+                   class="layui-input">
+        </div>
+    </div>
+
+    <div class="layui-form-item">
+        <label class="layui-form-label">性别</label>
+        <div class="layui-input-block">
+            <input type="radio" name="sex" value="男" title="男">
+            <input type="radio" name="sex" value="女" title="女" checked>
+        </div>
+    </div>
+
+
+    <div class="layui-form-item">
+        <label class="layui-form-label">上传头像</label>
+        <div class="layui-input-block">
+            <input type="file" name="file_name" required lay-verify="required" placeholder="请选择头像" autocomplete="off"
+                   class="layui-input">
+        </div>
+    </div>
+
+    <div class="layui-form-item">
+        <div class="layui-input-block">
+            <button class="layui-btn" lay-submit lay-filter="formDemo">立即提交</button>
+            <button type="reset" class="layui-btn layui-btn-primary">重置</button>
+        </div>
+    </div>
+</form>
+<button type="button" class="layui-btn">一个标准的按钮</button>
+<a href="http://www.layui.com" class="layui-btn">一个可跳转的按钮</a>
+<button type="button" class="layui-btn" id="b1">
+    局部刷新
+</button>
+
+<script src="{% static 'layui/layui.all.js' %}"></script>
+
+<script>
+    ;!function () {
+        //无需再执行layui.use()方法加载模块，直接使用即可
+        var form = layui.form
+            , layer = layui.layer;
+
+        //…
+    }();
+</script>
+
+<script>
+    layui.use('carousel', function () {
+        var carousel = layui.carousel;
+        //建造实例
+        carousel.render({
+            elem: '#test1',
+            height: 500,
+            width: '100%' ,//设置容器宽度,
+          arrow: 'always', //始终显示箭头
+           // anim: 'updown', //切换动画方式
+        });
+    });
+</script>
+<script src="{% static 'js/jquery-3.4.1.min.js' %}"></script>
+<script>
+    $("#b1").on("click",function () {
+        $.ajax({
+            url:"{% url 'app01:index' %}",
+            type:"POST",
+            data:{"name":"xxx","age":10,"csrfmiddlewaretoken":$('[name= csrfmiddlewaretoken]').val()},
+            success:function (data) {
+                console.log(data)
+            }
+        })
+    })
+</script>
+</body>
+</html>
