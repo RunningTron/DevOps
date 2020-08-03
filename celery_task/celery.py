@@ -1,3 +1,4 @@
+# -*- encoding: utf-8 -*-
 from __future__ import absolute_import  # 使用绝对导入
 from celery import Celery
 

@@ -5,6 +5,6 @@ import random
 
 @task.task
 def wechat_task(addr):
-    time.sleep(random.randint(5))
+    time.sleep(random.randint(1,3))
     print("send wechat to %s" % addr)
     return "wechat", addr
