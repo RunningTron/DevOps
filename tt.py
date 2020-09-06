@@ -1,16 +1,7 @@
-import random
+a, b = 100, 100
+print(id(a), id(b))
+c, d = a + 1000, b + 1000
+print(id(c), id(d))
 
-import numpy as np
-from matplotlib import pyplot as plt
-
-x = list(range(1,100))
-# random.shuffle(x)
-y = list(range(1,100))
-plt.title("Matplotlib demo")
-plt.xlabel("x axis caption")
-plt.ylabel("y axis caption")
-plt.plot(x,y,color="red")
-random.shuffle(y)
-plt.plot(x,y,color="blue")
-plt.savefig("1.jpg")
-plt.show()
+a="beyondsoft(hang zhou)co.,ltd"
+print(a.upper())

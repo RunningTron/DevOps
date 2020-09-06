@@ -4,452 +4,9 @@
     <list default="true" id="7059f31b-c504-4c50-89dd-7cdbb5dd8d3b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/celery_task/celery.py" beforeDir="false" afterPath="$PROJECT_DIR$/celery_task/celery.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/celery_task/e_mail.py" beforeDir="false" afterPath="$PROJECT_DIR$/celery_task/e_mail.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/celery_task/wechat.py" beforeDir="false" afterPath="$PROJECT_DIR$/celery_task/wechat.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exec.py" beforeDir="false" afterPath="$PROJECT_DIR$/exec.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/.idea/deployment.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/.idea/web.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/app01/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/check_result.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/app01/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/app01/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/app01/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/rev.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/app01/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/app01/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/app01/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/app01/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/cmd.txt" beforeDir="false" afterPath="$PROJECT_DIR$/t.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/image/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/image/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/js/jquery-3.4.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/css/layui.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/css/layui.mobile.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/css/modules/code.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/css/modules/laydate/default/laydate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/css/modules/layer/default/icon-ext.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/css/modules/layer/default/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/css/modules/layer/default/layer.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/css/modules/layer/default/loading-0.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/css/modules/layer/default/loading-1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/css/modules/layer/default/loading-2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/font/iconfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/font/iconfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/font/iconfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/font/iconfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/font/iconfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/0.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/10.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/11.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/12.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/13.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/14.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/15.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/16.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/17.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/18.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/19.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/20.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/21.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/22.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/23.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/24.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/25.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/26.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/27.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/28.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/29.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/3.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/30.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/31.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/32.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/33.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/34.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/35.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/36.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/37.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/38.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/39.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/4.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/40.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/41.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/42.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/43.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/44.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/45.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/46.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/47.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/48.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/49.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/5.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/50.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/51.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/52.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/53.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/54.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/55.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/56.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/57.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/58.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/59.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/6.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/60.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/61.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/62.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/63.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/64.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/65.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/66.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/67.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/68.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/69.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/7.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/70.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/71.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/8.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/images/face/9.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/lay/modules/carousel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/lay/modules/code.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/lay/modules/colorpicker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/lay/modules/element.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/lay/modules/flow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/lay/modules/form.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/lay/modules/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/lay/modules/laydate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/lay/modules/layedit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/lay/modules/layer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/lay/modules/laypage.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/lay/modules/laytpl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/lay/modules/mobile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/lay/modules/rate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/lay/modules/slider.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/lay/modules/table.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/lay/modules/transfer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/lay/modules/tree.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/lay/modules/upload.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/lay/modules/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/layui.all.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/static/layui/layui.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/base.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/app-profile.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/badge.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/booking-system.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/button.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/calendar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/card.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/carousel.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/chart.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/chat.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/compose-email.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/data-table.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/datamap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/favourite_menu.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/flot-chart.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/fonts.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/form.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/forms.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/global.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/gmap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/header.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/home.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/invoice-edit.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/invoice.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/barRating/barRating.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/calendar/fullcalendar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/calendar2/pignose.calendar.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/calendar2/semantic.ui.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/data-table/buttons.bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/data-table/buttons.dataTables.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/data-table/dataTables.bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/jquery-ui.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/jsgrid/jsgrid-theme.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/jsgrid/jsgrid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/lobi-panel/lobipanel.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/mmc-chat.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/nestable/nestable.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/owl.carousel.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/owl.theme.default.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/rangSlider/ion.rangeSlider.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/rangSlider/ion.rangeSlider.skinFlat.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/rangSlider/ion.rangeSlider.skinHTML5.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/rangSlider/ion.rangeSlider.skinModern.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/rangSlider/ion.rangeSlider.skinNice.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/rangSlider/ion.rangeSlider.skinSimple.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/rangSlider/normalize.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/scrollable/scrollable.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/sidebar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/simdahs.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/sweetalert/sweetalert.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/themify-icons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/toastr/toastr.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/vector-map/jqvmap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/lib/weather-icons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/login.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/menu-upload.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/modal.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/morris-chart.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/nestable.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/order-list.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/order-progress.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/panel.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/products_1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/products_2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/products_3.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/profile.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/progress-bar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/recent-comments.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/recent-message.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/scrollable.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/tab.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/table.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/timeline.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/todo-list.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/ui-element-basic.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/variable.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/vector-map.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/weather.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/css/widget-stat.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/MontserratLight.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/MontserratLight.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/MontserratLight.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/MontserratLight.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/MontserratLight.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/fontawesome-webfont_files/viewsource.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/themify.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/themify.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/themify.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/themify.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/weathericons-regular-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/weathericons-regular-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/weathericons-regular-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/weathericons-regular-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/fonts/weathericons-regular-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/avatar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/avatar/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/avatar/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/avatar/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/avatar/usa-flag.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/bookingSystem/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/bookingSystem/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/bookingSystem/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/bookingSystem/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/bookingSystem/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/bookingSystem/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/bookingSystem/7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/bookingSystem/8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/chat-person-add.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/close.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/fjords.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/hand.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/lights.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/logo-big.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/logo-small.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/maximize.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/minimize.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/nature.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/newyork.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/paris.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/paypal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/picture.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/preview1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/product_1/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/product_1/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/product_1/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/product_1/burger.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/product_1/download.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/product_1/image-10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/product_1/image-8-226x223 - Copy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/product_1/image-8-226x223.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/product_1/image-9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/product_1/images.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/product_1/pizza2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/rangeSliderimg/sprite-skin-flat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/rangeSliderimg/sprite-skin-modern.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/rangeSliderimg/sprite-skin-nice.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/rangeSliderimg/sprite-skin-simple.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/sanfran.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/scrollable/view-1-1200x800.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/smile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/user-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/user-profile.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/user.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/images/video-cam.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/barRating/barRating.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/barRating/jquery.barrating.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/calendar-2/moment.latest.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/calendar-2/pignose.calendar.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/calendar-2/pignose.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/calendar-2/prism.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/calendar-2/semantic.ui.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/calendar/fullcalendar-init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/calendar/fullcalendar.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/chart-js/Chart.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/chart-js/chartjs-init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/chat-widget/chat-widget-init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/data-table/buttons.colVis.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/data-table/buttons.flash.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/data-table/buttons.html5.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/data-table/buttons.print.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/data-table/dataTables.buttons.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/data-table/datatables-init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/data-table/datatables.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/data-table/jquery-1.12.4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/data-table/jquery.dataTables.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/data-table/jszip.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/data-table/pdfmake.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/data-table/vfs_fonts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/datamap/d3.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/datamap/datamap-init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/datamap/datamaps.world.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/datamap/topojson.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/flot-chart/curvedLines.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/flot-chart/excanvas.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/flot-chart/flot-chart-init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/flot-chart/flot-tooltip/jquery.flot.tooltip.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/flot-chart/jquery.flot.categories.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/flot-chart/jquery.flot.crosshair.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/flot-chart/jquery.flot.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/flot-chart/jquery.flot.pie.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/flot-chart/jquery.flot.resize.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/flot-chart/jquery.flot.stack.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/flot-chart/jquery.flot.threshold.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/flot-chart/jquery.flot.time.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/flowtype.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/gmap/gmap.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/gmap/gmapApi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/gmap/gmaps.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/invoice-edit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jquery-ui/jquery-ui.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jquery-ui/jquery.ui.touch-punch.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jquery.nanoscroller.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jsgrid/db.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jsgrid/fields/jsgrid.field.checkbox.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jsgrid/fields/jsgrid.field.control.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jsgrid/fields/jsgrid.field.number.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jsgrid/fields/jsgrid.field.select.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jsgrid/fields/jsgrid.field.text.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jsgrid/fields/jsgrid.field.textarea.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jsgrid/jsgrid-init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jsgrid/jsgrid.core.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jsgrid/jsgrid.field.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jsgrid/jsgrid.load-indicator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jsgrid/jsgrid.load-strategies.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jsgrid/jsgrid.sort-strategies.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/jsgrid/jsgrid.validation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/knob/jquery.knob.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/knob/knob.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/lobi-panel/lobipanel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/mmc-chat.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/mmc-common.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/moment/moment.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/morris-chart/morris-init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/morris-chart/morris.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/nestable/jquery.nestable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/nestable/nestable.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/owl-carousel/owl.carousel-init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/owl-carousel/owl.carousel.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/peitychart/jquery.peity.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/peitychart/peitychart.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/rangeSlider/ion.rangeSlider.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/rangeSlider/moment-with-locales.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/rangeSlider/moment.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/rangeSlider/rangeslider.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/rating1/jRate.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/rating1/jRate.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/scrollable/holder.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/scrollable/jquery-asScrollable.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/scrollable/jquery-asScrollbar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/scrollable/scrollable.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/sidebar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/sparklinechart/jquery.sparkline.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/sparklinechart/sparkline.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/sweetalert/sweetalert.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/sweetalert/sweetalert.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/toastr/toastr.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/toastr/toastr.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/country/jquery.vmap.algeria.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/country/jquery.vmap.argentina.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/country/jquery.vmap.brazil.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/country/jquery.vmap.europe.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/country/jquery.vmap.france.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/country/jquery.vmap.germany.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/country/jquery.vmap.greece.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/country/jquery.vmap.iran.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/country/jquery.vmap.iraq.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/country/jquery.vmap.russia.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/country/jquery.vmap.tunisia.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/country/jquery.vmap.turkey.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/country/jquery.vmap.usa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/country/jquery.vmap.world.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/jquery.vmap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/jquery.vmap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/jquery.vmap.sampledata.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/vector-map/vector.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/weather/jquery.simpleWeather.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/lib/weather/weather-init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/assets/js/scripts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/font-themify.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/form-basic.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/page-login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/page-register.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/page-reset-password.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/restaurant-upload-menu.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/table-basic.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/table-export.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/uc-calendar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/uc-carousel.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/uc-chat.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/uc-datamap.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/uc-nestable.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/uc-portlets.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/uc-scrollable.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/uc-sweetalert.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/uc-toastr.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/uc-todo-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/uc-weather.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/ui-accordion.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/ui-alerts.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/ui-badges.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/ui-blank.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/ui-button.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/ui-dropdown.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/ui-images.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/ui-list-group.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/ui-navbar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/ui-panels.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/ui-progressbar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/ui-recent-comments.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/ui-tab.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/ui-timeline.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/templates/moban3822/ui-wells.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/web/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/web/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/web/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/web/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rev.py" beforeDir="false" afterPath="$PROJECT_DIR$/rev.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt.py" beforeDir="false" afterPath="$PROJECT_DIR$/tt.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -459,12 +16,13 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/DevOps$e_mail.coverage" NAME="e_mail Coverage Results" MODIFIED="1589207448102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/celery_task" />
-    <SUITE FILE_PATH="coverage/DevOps$tt.coverage" NAME="tt Coverage Results" MODIFIED="1595940966917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DevOps$tt.coverage" NAME="tt Coverage Results" MODIFIED="1597242913746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DevOps$exec.coverage" NAME="exec Coverage Results" MODIFIED="1589207867012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/celery_task" />
-    <SUITE FILE_PATH="coverage/DevOps$rev.coverage" NAME="rev Coverage Results" MODIFIED="1596375727499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DevOps$rev.coverage" NAME="rev Coverage Results" MODIFIED="1596464307212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DevOps$web.coverage" NAME="web Coverage Results" MODIFIED="1590589205292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web" />
+    <SUITE FILE_PATH="coverage/DevOps$celery.coverage" NAME="celery Coverage Results" MODIFIED="1596469464586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/celery_task" />
     <SUITE FILE_PATH="coverage/DevOps$xlsl_test.coverage" NAME="xlsl_test Coverage Results" MODIFIED="1588862701070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/DevOps$exec__1_.coverage" NAME="exec (1) Coverage Results" MODIFIED="1593358953245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DevOps$exec__1_.coverage" NAME="exec (1) Coverage Results" MODIFIED="1596461095580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DevOps$t.coverage" NAME="t Coverage Results" MODIFIED="1595521231530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
@@ -478,14 +36,14 @@
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="4" />
-          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.4" value="2" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="daily" value="2" />
+          <entry key="daily" value="3" />
           <entry key="gif" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="html" value="9" />
@@ -493,7 +51,7 @@
           <entry key="js" value="1" />
           <entry key="md" value="1" />
           <entry key="png" value="3" />
-          <entry key="py" value="58" />
+          <entry key="py" value="70" />
           <entry key="txt" value="2" />
           <entry key="yml" value="1" />
         </counts>
@@ -504,8 +62,8 @@
           <entry key="Image" value="11" />
           <entry key="JavaScript" value="1" />
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="58" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Python" value="70" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
@@ -513,7 +71,7 @@
         <counts>
           <entry key="gitignore" value="8" />
           <entry key="html" value="833" />
-          <entry key="py" value="4161" />
+          <entry key="py" value="4612" />
           <entry key="yml" value="330" />
         </counts>
       </usages-collector>
@@ -521,7 +79,7 @@
         <counts>
           <entry key="HTML" value="833" />
           <entry key="PLAIN_TEXT" value="8" />
-          <entry key="Python" value="4161" />
+          <entry key="Python" value="4612" />
           <entry key="YAML" value="330" />
         </counts>
       </usages-collector>
@@ -532,20 +90,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rev.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-              <folding>
-                <marker date="1596375736530" expanded="true" signature="13:18" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/exec.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="36" column="30" lean-forward="true" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+            <state relative-caret-position="352">
+              <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -556,8 +102,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/celery_task/celery.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="242">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
               <folding>
                 <element signature="e#26#74#0" expanded="true" />
               </folding>
@@ -566,22 +112,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/celery_task/wechat.py">
+        <entry file="file://$PROJECT_DIR$/t.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="1012">
+              <caret line="46" column="27" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+              <folding>
+                <marker date="1595521337855" expanded="true" signature="433:801" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/check_result.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tt.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#37#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="88">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -589,8 +135,237 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/celery_task/e_mail.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="4" column="10" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="10" />
+            <state relative-caret-position="66">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exec.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="9" column="11" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/celery_task/wechat.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/python3/Lib/site-packages/celery/app/base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6314">
+              <caret line="1302" selection-start-line="1302" selection-end-line="1302" />
+              <folding>
+                <element signature="e#2163#2200#0" />
+                <element signature="e#2281#2503#0" />
+                <element signature="e#2541#2917#0" />
+                <element signature="e#2541#2802#1" />
+                <element signature="e#2967#3156#0" />
+                <element signature="e#2991#3041#0" />
+                <element signature="e#3197#3460#0" />
+                <element signature="e#3197#3253#0" />
+                <element signature="e#3525#4739#0" />
+                <element signature="e#3525#3594#0" />
+                <element signature="e#3929#4023#0" />
+                <element signature="e#4072#4095#0" />
+                <element signature="e#4126#4144#0" />
+                <element signature="e#4193#4227#0" />
+                <element signature="e#4280#4325#0" />
+                <element signature="e#4368#4556#0" />
+                <element signature="e#4368#4411#0" />
+                <element signature="e#4589#4610#0" />
+                <element signature="e#4644#4666#0" />
+                <element signature="e#4717#4739#0" />
+                <element signature="e#4797#6507#1" />
+                <element signature="e#6697#6764#0" />
+                <element signature="e#6896#6940#0" />
+                <element signature="e#7013#7065#0" />
+                <element signature="e#8273#11134#0" />
+                <element signature="e#9375#9437#0" />
+                <element signature="e#9649#9691#0" />
+                <element signature="e#10723#10816#0" />
+                <element signature="e#11179#11394#0" />
+                <element signature="e#11427#11466#0" />
+                <element signature="e#11513#11608#0" />
+                <element signature="e#11535#11608#0" />
+                <element signature="e#11645#11724#0" />
+                <element signature="e#11761#11839#0" />
+                <element signature="e#11883#12080#0" />
+                <element signature="e#11931#12080#0" />
+                <element signature="e#12111#12508#0" />
+                <element signature="e#12111#12452#1" />
+                <element signature="e#12550#12784#0" />
+                <element signature="e#12550#12659#1" />
+                <element signature="e#12832#13066#0" />
+                <element signature="e#12832#12948#1" />
+                <element signature="e#13111#15909#0" />
+                <element signature="e#13111#14132#1" />
+                <element signature="e#14196#14623#0" />
+                <element signature="e#14196#14262#0" />
+                <element signature="e#14717#15503#0" />
+                <element signature="e#14788#15466#0" />
+                <element signature="e#14819#14995#0" />
+                <element signature="e#14858#14896#0" />
+                <element signature="e#15144#15375#0" />
+                <element signature="e#15544#15697#0" />
+                <element signature="e#15727#15864#0" />
+                <element signature="e#15999#18921#0" />
+                <element signature="e#16271#18850#0" />
+                <element signature="e#16364#16686#0" />
+                <element signature="e#16714#16768#0" />
+                <element signature="e#17847#18850#0" />
+                <element signature="e#17926#18792#0" />
+                <element signature="e#18053#18198#0" />
+                <element signature="e#18053#18106#0" />
+                <element signature="e#18336#18792#0" />
+                <element signature="e#18382#18726#0" />
+                <element signature="e#18966#19462#0" />
+                <element signature="e#18966#19196#1" />
+                <element signature="e#19235#19356#0" />
+                <element signature="e#19515#19555#0" />
+                <element signature="e#19601#20290#0" />
+                <element signature="e#19601#19738#1" />
+                <element signature="e#19786#20290#0" />
+                <element signature="e#19825#20290#0" />
+                <element signature="e#20333#21138#0" />
+                <element signature="e#20333#20951#1" />
+                <element signature="e#21257#22057#0" />
+                <element signature="e#21257#21803#1" />
+                <element signature="e#21940#22057#0" />
+                <element signature="e#22143#22774#0" />
+                <element signature="e#22143#22456#1" />
+                <element signature="e#22549#22694#0" />
+                <element signature="e#22845#22936#0" />
+                <element signature="e#23132#24512#0" />
+                <element signature="e#23132#24332#1" />
+                <element signature="e#24633#26311#0" />
+                <element signature="e#24633#26075#1" />
+                <element signature="e#26390#26547#0" />
+                <element signature="e#26627#26789#0" />
+                <element signature="e#26860#27086#0" />
+                <element signature="e#26903#27058#0" />
+                <element signature="e#27648#30280#0" />
+                <element signature="e#27648#27904#1" />
+                <element signature="e#28188#28314#0" />
+                <element signature="e#28529#28966#0" />
+                <element signature="e#28602#28966#0" />
+                <element signature="e#28851#28966#0" />
+                <element signature="e#29590#29802#0" />
+                <element signature="e#29654#29802#0" />
+                <element signature="e#29870#29930#0" />
+                <element signature="e#30106#30258#0" />
+                <element signature="e#30345#30551#0" />
+                <element signature="e#30345#30475#1" />
+                <element signature="e#30617#30824#0" />
+                <element signature="e#30617#30747#1" />
+                <element signature="e#31150#32945#0" />
+                <element signature="e#31150#32503#1" />
+                <element signature="e#33266#34082#0" />
+                <element signature="e#34173#34329#0" />
+                <element signature="e#34414#34838#0" />
+                <element signature="e#34414#34758#1" />
+                <element signature="e#34959#35394#0" />
+                <element signature="e#34959#35290#1" />
+                <element signature="e#35494#35603#0" />
+                <element signature="e#35632#35784#0" />
+                <element signature="e#35836#36009#0" />
+                <element signature="e#35836#35962#1" />
+                <element signature="e#36065#36342#0" />
+                <element signature="e#36065#36226#1" />
+                <element signature="e#36254#36341#0" />
+                <element signature="e#36377#36455#0" />
+                <element signature="e#36493#36649#0" />
+                <element signature="e#36697#36979#0" />
+                <element signature="e#36697#36911#1" />
+                <element signature="e#37017#38318#0" />
+                <element signature="e#37133#37194#0" />
+                <element signature="e#37555#37801#0" />
+                <element signature="e#37555#37615#0" />
+                <element signature="e#38355#38546#0" />
+                <element signature="e#38598#38746#0" />
+                <element signature="e#38869#39141#0" />
+                <element signature="e#39286#39708#0" />
+                <element signature="e#39500#39708#0" />
+                <element signature="e#39519#39708#0" />
+                <element signature="e#39764#39801#0" />
+                <element signature="e#39842#40044#0" />
+                <element signature="e#40189#41440#0" />
+                <element signature="e#40189#40945#1" />
+                <element signature="e#41084#41143#0" />
+                <element signature="e#41481#41510#0" />
+                <element signature="e#41545#41556#0" />
+                <element signature="e#41601#41613#0" />
+                <element signature="e#41647#41707#0" />
+                <element signature="e#41743#41884#0" />
+                <element signature="e#41923#42188#0" />
+                <element signature="e#41923#41971#0" />
+                <element signature="e#42095#42178#0" />
+                <element signature="e#42229#42848#0" />
+                <element signature="e#42316#42848#0" />
+                <element signature="e#42889#43206#0" />
+                <element signature="e#42974#43205#0" />
+                <element signature="e#43259#43411#0" />
+                <element signature="e#43259#43343#1" />
+                <element signature="e#43482#43644#0" />
+                <element signature="e#43482#43573#1" />
+                <element signature="e#43705#43877#0" />
+                <element signature="e#43705#43813#1" />
+                <element signature="e#43928#44001#0" />
+                <element signature="e#44059#44113#0" />
+                <element signature="e#44171#44348#0" />
+                <element signature="e#44171#44280#1" />
+                <element signature="e#44404#44461#0" />
+                <element signature="e#44519#44702#0" />
+                <element signature="e#44519#44634#1" />
+                <element signature="e#44746#45141#0" />
+                <element signature="e#44746#44891#1" />
+                <element signature="e#44935#45115#0" />
+                <element signature="e#45193#45280#0" />
+                <element signature="e#45339#45586#0" />
+                <element signature="e#45339#45545#1" />
+                <element signature="e#45636#45989#0" />
+                <element signature="e#45694#45746#0" />
+                <element signature="e#46040#46142#0" />
+                <element signature="e#46196#46262#0" />
+                <element signature="e#46306#46436#0" />
+                <element signature="e#46494#46508#0" />
+                <element signature="e#46562#46658#0" />
+                <element signature="e#46711#46819#0" />
+                <element signature="e#46872#46959#0" />
+                <element signature="e#47009#47090#0" />
+                <element signature="e#47144#47191#0" />
+                <element signature="e#47243#47420#0" />
+                <element signature="e#47243#47360#1" />
+                <element signature="e#47473#47503#0" />
+                <element signature="e#47546#47644#0" />
+                <element signature="e#47699#48077#0" />
+                <element signature="e#47699#47846#1" />
+                <element signature="e#47914#48025#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/check_result.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="5" selection-start-line="5" selection-end-line="18" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -631,12 +406,12 @@
         <option value="$PROJECT_DIR$/check_result.py" />
         <option value="$PROJECT_DIR$/celery_task/wechat.py" />
         <option value="$PROJECT_DIR$/celery_task/e_mail.py" />
-        <option value="$PROJECT_DIR$/exec.py" />
-        <option value="$PROJECT_DIR$/celery_task/celery.py" />
         <option value="$PROJECT_DIR$/bm.py" />
         <option value="$PROJECT_DIR$/t.py" />
-        <option value="$PROJECT_DIR$/tt.py" />
+        <option value="$PROJECT_DIR$/exec.py" />
+        <option value="$PROJECT_DIR$/celery_task/celery.py" />
         <option value="$PROJECT_DIR$/rev.py" />
+        <option value="$PROJECT_DIR$/tt.py" />
       </list>
     </option>
   </component>
@@ -646,11 +421,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1939" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -660,7 +435,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -677,6 +451,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -685,7 +460,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Web_Flask" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -711,7 +486,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.rev">
+  <component name="RunManager" selected="Python.tt">
+    <configuration name="celery" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DevOps" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/celery_task" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/celery_task/celery.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="exec (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DevOps" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -726,28 +523,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exec.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="exec" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="DevOps" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/celery_task" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\code\DevOps\exec.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -848,19 +623,19 @@
     </configuration>
     <list>
       <item itemvalue="Django server.web" />
-      <item itemvalue="Python.exec" />
       <item itemvalue="Python.exec (1)" />
       <item itemvalue="Python.t" />
       <item itemvalue="Python.tt" />
       <item itemvalue="Python.rev" />
+      <item itemvalue="Python.celery" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.rev" />
         <item itemvalue="Python.tt" />
-        <item itemvalue="Python.t" />
+        <item itemvalue="Python.celery" />
+        <item itemvalue="Python.rev" />
         <item itemvalue="Python.exec (1)" />
-        <item itemvalue="Python.exec" />
+        <item itemvalue="Python.t" />
       </list>
     </recent_temporary>
   </component>
@@ -878,15 +653,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17426273" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17627347" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19970632" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36123347" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.43024963" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -895,7 +669,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5020107" side_tool="true" weight="0.1380323" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49798927" weight="0.16152717" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49798927" weight="0.2657856" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -904,30 +678,6 @@
       <window_info anchor="right" id="SciView" order="4" weight="0.3297587" />
       <window_info anchor="right" id="Database" order="5" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16823056" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4082232" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5020107" side_tool="true" weight="0.1380323" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49798927" weight="0.5301028" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info anchor="right" id="SciView" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -936,15 +686,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/mycelery/计划任务/s2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/mycelery/延时任务/s1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/mycelery/延时任务/s2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/mycelery/异步/s2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -1052,9 +793,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/daily">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://D:/python3/Lib/site-packages/flask/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-132" />
@@ -1075,9 +813,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daily">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/python3/Lib/site-packages/celery/app/task.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="531" selection-start-line="531" selection-end-line="531" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python3/Lib/site-packages/celery/schedules.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="403" column="64" lean-forward="true" selection-start-line="403" selection-start-column="64" selection-end-line="403" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python3/Lib/site-packages/~elery/canvas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-123">
+          <caret line="77" column="22" selection-start-line="77" selection-start-column="22" selection-end-line="77" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rev.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/celery_task/celery.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <element signature="e#26#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/t.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
+        <state relative-caret-position="1012">
           <caret line="46" column="27" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
           <folding>
             <marker date="1595521337855" expanded="true" signature="433:801" ph="..." />
@@ -1085,77 +870,238 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rev.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <marker date="1596375736530" expanded="true" signature="13:18" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/celery_task/e_mail.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="10" />
+        <state relative-caret-position="66">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/celery_task/celery.py">
+    <entry file="file://$PROJECT_DIR$/exec.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="66">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="16" />
           <folding>
-            <element signature="e#26#74#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/python3/Lib/site-packages/celery/app/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="366" column="8" selection-start-line="366" selection-start-column="8" selection-end-line="366" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/celery_task/wechat.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="66">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python3/Lib/site-packages/celery/app/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6314">
+          <caret line="1302" selection-start-line="1302" selection-end-line="1302" />
+          <folding>
+            <element signature="e#2163#2200#0" />
+            <element signature="e#2281#2503#0" />
+            <element signature="e#2541#2917#0" />
+            <element signature="e#2541#2802#1" />
+            <element signature="e#2967#3156#0" />
+            <element signature="e#2991#3041#0" />
+            <element signature="e#3197#3460#0" />
+            <element signature="e#3197#3253#0" />
+            <element signature="e#3525#4739#0" />
+            <element signature="e#3525#3594#0" />
+            <element signature="e#3929#4023#0" />
+            <element signature="e#4072#4095#0" />
+            <element signature="e#4126#4144#0" />
+            <element signature="e#4193#4227#0" />
+            <element signature="e#4280#4325#0" />
+            <element signature="e#4368#4556#0" />
+            <element signature="e#4368#4411#0" />
+            <element signature="e#4589#4610#0" />
+            <element signature="e#4644#4666#0" />
+            <element signature="e#4717#4739#0" />
+            <element signature="e#4797#6507#1" />
+            <element signature="e#6697#6764#0" />
+            <element signature="e#6896#6940#0" />
+            <element signature="e#7013#7065#0" />
+            <element signature="e#8273#11134#0" />
+            <element signature="e#9375#9437#0" />
+            <element signature="e#9649#9691#0" />
+            <element signature="e#10723#10816#0" />
+            <element signature="e#11179#11394#0" />
+            <element signature="e#11427#11466#0" />
+            <element signature="e#11513#11608#0" />
+            <element signature="e#11535#11608#0" />
+            <element signature="e#11645#11724#0" />
+            <element signature="e#11761#11839#0" />
+            <element signature="e#11883#12080#0" />
+            <element signature="e#11931#12080#0" />
+            <element signature="e#12111#12508#0" />
+            <element signature="e#12111#12452#1" />
+            <element signature="e#12550#12784#0" />
+            <element signature="e#12550#12659#1" />
+            <element signature="e#12832#13066#0" />
+            <element signature="e#12832#12948#1" />
+            <element signature="e#13111#15909#0" />
+            <element signature="e#13111#14132#1" />
+            <element signature="e#14196#14623#0" />
+            <element signature="e#14196#14262#0" />
+            <element signature="e#14717#15503#0" />
+            <element signature="e#14788#15466#0" />
+            <element signature="e#14819#14995#0" />
+            <element signature="e#14858#14896#0" />
+            <element signature="e#15144#15375#0" />
+            <element signature="e#15544#15697#0" />
+            <element signature="e#15727#15864#0" />
+            <element signature="e#15999#18921#0" />
+            <element signature="e#16271#18850#0" />
+            <element signature="e#16364#16686#0" />
+            <element signature="e#16714#16768#0" />
+            <element signature="e#17847#18850#0" />
+            <element signature="e#17926#18792#0" />
+            <element signature="e#18053#18198#0" />
+            <element signature="e#18053#18106#0" />
+            <element signature="e#18336#18792#0" />
+            <element signature="e#18382#18726#0" />
+            <element signature="e#18966#19462#0" />
+            <element signature="e#18966#19196#1" />
+            <element signature="e#19235#19356#0" />
+            <element signature="e#19515#19555#0" />
+            <element signature="e#19601#20290#0" />
+            <element signature="e#19601#19738#1" />
+            <element signature="e#19786#20290#0" />
+            <element signature="e#19825#20290#0" />
+            <element signature="e#20333#21138#0" />
+            <element signature="e#20333#20951#1" />
+            <element signature="e#21257#22057#0" />
+            <element signature="e#21257#21803#1" />
+            <element signature="e#21940#22057#0" />
+            <element signature="e#22143#22774#0" />
+            <element signature="e#22143#22456#1" />
+            <element signature="e#22549#22694#0" />
+            <element signature="e#22845#22936#0" />
+            <element signature="e#23132#24512#0" />
+            <element signature="e#23132#24332#1" />
+            <element signature="e#24633#26311#0" />
+            <element signature="e#24633#26075#1" />
+            <element signature="e#26390#26547#0" />
+            <element signature="e#26627#26789#0" />
+            <element signature="e#26860#27086#0" />
+            <element signature="e#26903#27058#0" />
+            <element signature="e#27648#30280#0" />
+            <element signature="e#27648#27904#1" />
+            <element signature="e#28188#28314#0" />
+            <element signature="e#28529#28966#0" />
+            <element signature="e#28602#28966#0" />
+            <element signature="e#28851#28966#0" />
+            <element signature="e#29590#29802#0" />
+            <element signature="e#29654#29802#0" />
+            <element signature="e#29870#29930#0" />
+            <element signature="e#30106#30258#0" />
+            <element signature="e#30345#30551#0" />
+            <element signature="e#30345#30475#1" />
+            <element signature="e#30617#30824#0" />
+            <element signature="e#30617#30747#1" />
+            <element signature="e#31150#32945#0" />
+            <element signature="e#31150#32503#1" />
+            <element signature="e#33266#34082#0" />
+            <element signature="e#34173#34329#0" />
+            <element signature="e#34414#34838#0" />
+            <element signature="e#34414#34758#1" />
+            <element signature="e#34959#35394#0" />
+            <element signature="e#34959#35290#1" />
+            <element signature="e#35494#35603#0" />
+            <element signature="e#35632#35784#0" />
+            <element signature="e#35836#36009#0" />
+            <element signature="e#35836#35962#1" />
+            <element signature="e#36065#36342#0" />
+            <element signature="e#36065#36226#1" />
+            <element signature="e#36254#36341#0" />
+            <element signature="e#36377#36455#0" />
+            <element signature="e#36493#36649#0" />
+            <element signature="e#36697#36979#0" />
+            <element signature="e#36697#36911#1" />
+            <element signature="e#37017#38318#0" />
+            <element signature="e#37133#37194#0" />
+            <element signature="e#37555#37801#0" />
+            <element signature="e#37555#37615#0" />
+            <element signature="e#38355#38546#0" />
+            <element signature="e#38598#38746#0" />
+            <element signature="e#38869#39141#0" />
+            <element signature="e#39286#39708#0" />
+            <element signature="e#39500#39708#0" />
+            <element signature="e#39519#39708#0" />
+            <element signature="e#39764#39801#0" />
+            <element signature="e#39842#40044#0" />
+            <element signature="e#40189#41440#0" />
+            <element signature="e#40189#40945#1" />
+            <element signature="e#41084#41143#0" />
+            <element signature="e#41481#41510#0" />
+            <element signature="e#41545#41556#0" />
+            <element signature="e#41601#41613#0" />
+            <element signature="e#41647#41707#0" />
+            <element signature="e#41743#41884#0" />
+            <element signature="e#41923#42188#0" />
+            <element signature="e#41923#41971#0" />
+            <element signature="e#42095#42178#0" />
+            <element signature="e#42229#42848#0" />
+            <element signature="e#42316#42848#0" />
+            <element signature="e#42889#43206#0" />
+            <element signature="e#42974#43205#0" />
+            <element signature="e#43259#43411#0" />
+            <element signature="e#43259#43343#1" />
+            <element signature="e#43482#43644#0" />
+            <element signature="e#43482#43573#1" />
+            <element signature="e#43705#43877#0" />
+            <element signature="e#43705#43813#1" />
+            <element signature="e#43928#44001#0" />
+            <element signature="e#44059#44113#0" />
+            <element signature="e#44171#44348#0" />
+            <element signature="e#44171#44280#1" />
+            <element signature="e#44404#44461#0" />
+            <element signature="e#44519#44702#0" />
+            <element signature="e#44519#44634#1" />
+            <element signature="e#44746#45141#0" />
+            <element signature="e#44746#44891#1" />
+            <element signature="e#44935#45115#0" />
+            <element signature="e#45193#45280#0" />
+            <element signature="e#45339#45586#0" />
+            <element signature="e#45339#45545#1" />
+            <element signature="e#45636#45989#0" />
+            <element signature="e#45694#45746#0" />
+            <element signature="e#46040#46142#0" />
+            <element signature="e#46196#46262#0" />
+            <element signature="e#46306#46436#0" />
+            <element signature="e#46494#46508#0" />
+            <element signature="e#46562#46658#0" />
+            <element signature="e#46711#46819#0" />
+            <element signature="e#46872#46959#0" />
+            <element signature="e#47009#47090#0" />
+            <element signature="e#47144#47191#0" />
+            <element signature="e#47243#47420#0" />
+            <element signature="e#47243#47360#1" />
+            <element signature="e#47473#47503#0" />
+            <element signature="e#47546#47644#0" />
+            <element signature="e#47699#48077#0" />
+            <element signature="e#47699#47846#1" />
+            <element signature="e#47914#48025#0" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/check_result.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        <state relative-caret-position="88">
+          <caret line="5" selection-start-line="5" selection-end-line="18" selection-end-column="22" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exec.py">
+    <entry file="file://$PROJECT_DIR$/tt.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="36" column="30" lean-forward="true" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>

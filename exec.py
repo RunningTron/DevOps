@@ -40,6 +40,7 @@ while 1:
 
 
 
+
 '''
 s=myfun1.delay()
 # print(s,type(s))
